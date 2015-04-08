@@ -1,0 +1,111 @@
+1,Central,Chicago,Chicago_NW_Indiana/
+2,KMO,Cincinnati,Cincinnati/
+3,KMO,Cleveland,Cleveland_Akron/
+4,KMO,Columbus,Columbus/
+5,Central,Davenport,Davenport/
+6,KMO,Dayton,Dayton/
+7,Central,Des Moines,Des_Moines/
+8,KMO,Detroit,Detroit/
+9,Central,Evansville,Evansville/
+10,Central,Fort Wayne,Fort_Wayne/
+11,KMO,Grand Rapids,Grand_Rapids/
+12,Central,Green Bay,Green_Bay/
+13,Central,Indianapolis,Indianapolis/
+14,Central,Kansas City,Kansas_City/
+15,KMO,Lansing,Lansing/
+16,KMO,Lexington,Lexington/
+17,Central,Lincoln,Lincoln/
+18,KMO,Louisville,Louisville/
+19,Central,Madison,Madison/
+20,Central,Milwaukee,Milwaukee/
+21,Central,Minneapolis,Minneapolis_Twin_Cities/
+22,Central,Omaha,Omaha/
+23,Central,Peoria,Peoria_Illinois/
+24,Central,Rockford,Rockford_Illinios/
+25,Central,St. Louis,St_Louis/
+26,Central,South Bend,South_Bend_Indiana/
+27,Central,Springfield MO,Springfield_Missouri/
+28,KMO,Toledo,Toledo_Ohio/
+29,Central,Wichita,Wichita_Kansas/
+30,Eastern,Albany,Albany_New_York/
+31,Eastern,Altoona,Lewistown_Altoona_State_College_Pennsylvania/
+32,Eastern,Baltimore,Baltimore/
+33,Eastern,Boston,Boston/
+34,Eastern,Buffalo,Buffalo_New_York/
+35,Eastern,Charleston WV,Charleston_West_Virginia/
+36,Eastern,Harrisburg,Harrisburg_York_Lancaster_Pennsylvania/
+37,Eastern,Hartford/New Haven,Hartford_New_Haven/
+38,Eastern,New York,New_York_City_New_Jersey_Connecticut/
+39,Eastern,Norfolk,Norfolk_Virginia/
+40,Eastern,Philadelphia,Philadelphia/
+41,Eastern,Pittsburgh,Pittsburgh/
+42,Eastern,Portland ME,Portland_Maine/
+43,Eastern,Providence,Providence_Rhode_Island/
+44,Eastern,Richmond,Richmond_Virginia/
+45,Eastern,Rochester,Rochester_New_York/
+46,Eastern,Springfield MA,Springfield_Massachusetts/
+47,Eastern,Syracuse,Syracuse_New_York/
+48,Eastern,Washington DC,Washington_DC/
+49,Eastern,Wilkes-Barre,Wilkes_Barre_Pennsylvania/
+50,Southern,Atlanta,Atlanta/
+51,Southern,Augusta,Augusta_Georgia/
+52,Southern,Austin,Austin_Texas/
+53,Southern,Baton Rouge,Baton_Rouge/
+54,Southern,Birmingham,Birmingham_Alabama/
+55,Southern,Charleston SC,Charleston_South_Carolina/
+56,Southern,Charlotte,Charlotte_North_Carolina/
+57,Southern,Chattanooga,Chattanooga_Tennessee/
+58,Southern,Columbia,Columbia_South_Carolina/
+59,Southern,Dallas-Ft. Worth,Dallas_Ft_Worth/
+60,Southern,El Paso,El_Paso/
+61,Southern,Ft. Myers/Naples,Ft_Myers_Naples/
+62,Southern,Greensboro,Greensboro_Winston_Salem/
+63,Southern,Greenville,Greenville_South_Carolina/
+64,Southern,Houston,Houston/
+65,Southern,Huntsville,Huntsville_Alabama/
+66,Southern,Jackson,Jackson_Florida/
+67,Southern,Jacksonville,Jacksonville/
+68,Southern,Kingsport/Tri Cities,Kingsport_Tri_Cities/
+69,Southern,Knoxville,Knoxville_Tennessee/
+70,Southern,Little Rock,Little_Rock/
+71,Southern,Lubbock,Lubbock_Texas/
+72,Southern,Macon,Macon_Georgia/
+73,Southern,Memphis,Memphis/
+74,Southern,Miami/Ft. Lauderdale,Miami_Ft_Lauderdale/
+75,Southern,Mobile,Mobile_Alabama/
+76,Southern,Montgomery,Montgomery_Alabama/
+77,Southern,Nashville,Nashville/
+78,Southern,New Orleans,New_Orleans/
+79,Southern,Oklahoma City,Oklahoma_City/
+80,Southern,Orlando/Melbourne,Orlando_Melbourne/
+81,Southern,West Palm Beach,Palm_Beach_Florida/
+82,Southern,Raleigh,Raleigh_Durham/
+83,Southern,San Antonio,San_Antonio/
+84,Southern,Savannah,Savannah_Georgia/
+85,Southern,Shreveport,Shreveport_Louisiana/
+86,Southern,Tampa/Sarasota,Tampa_Sarasota_Florida/
+87,Southern,Tulsa,Tulsa_Oklahoma/
+88,Western,Albuquerque,Albuquerque/
+89,Western,Anchorage,Anchorage_Alaska/
+90,Western,Bakersfield,Bakersfield_California/
+91,Western,Boise,Boise_Idaho/
+92,Western,Colorado Springs,Colorado_Springs/
+93,Western,Eugene,Eugene_Oregon/
+94,Western,Denver,Denver/
+95,Western,Fresno,Fresno/
+96,Western,Las Vegas,Las_Vegas/
+97,Western,Los Angeles,Los_Angeles_California/
+98,Western,Monterey,Monterey/
+99,Western,Palm Springs,Palm_Springs/
+100,Western,Phoenix,Phoenix_Valley/
+101,Western,Portland,Portland_Oregon/
+102,Western,Reno,Reno_Nevada/
+103,Western,Sacramento,Sacramento_Modesto_California/
+104,Western,Salt Lake City,Salt_Lake_City/
+105,Western,San Diego,San_Diego/
+106,Western,San Francisco,San_Francisco_California/
+107,Western,Santa Barbara,Santa_Barbara/
+108,Western,Seattle,Seattle/
+109,Western,Spokane,Spokane_Washington/
+110,Western,Tucson,Tucson_Arizona/
+111,N-A,Shared Zips,select_dealer.html
