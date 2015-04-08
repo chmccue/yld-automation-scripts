@@ -1,0 +1,111 @@
+1,Central,Chicago,60647,Chicago_NW_Indiana/
+2,KMO,Cincinnati,45215,Cincinnati/
+3,KMO,Cleveland,44127,Cleveland_Akron/
+4,KMO,Columbus,43214,Columbus/
+5,Central,Davenport,52805,Davenport/
+6,KMO,Dayton,45405,Dayton/
+7,Central,Des Moines,50309,Des_Moines/
+8,KMO,Detroit,48205,Detroit/
+9,Central,Evansville,47720,Evansville/
+10,Central,Fort Wayne,46815,Fort_Wayne/
+11,KMO,Grand Rapids,49515,Grand_Rapids/
+12,Central,Green Bay,54305,Green_Bay/
+13,Central,Indianapolis,46214,Indianapolis/
+14,Central,Kansas City,64110,Kansas_City/
+15,KMO,Lansing,48910,Lansing/
+16,KMO,Lexington,40511,Lexington/
+17,Central,Lincoln,68508,Lincoln/
+18,KMO,Louisville,40210,Louisville/
+19,Central,Madison,53703,Madison/
+20,Central,Milwaukee,53210,Milwaukee/
+21,Central,Minneapolis,55408,Minneapolis_Twin_Cities/
+22,Central,Omaha,68105,Omaha/
+23,Central,Peoria,61605,Peoria_Illinois/
+24,Central,Rockford,61105,Rockford_Illinios/
+25,Central,St. Louis,63110,St_Louis/
+26,Central,South Bend,46617,South_Bend_Indiana/
+27,Central,Springfield MO,65808,Springfield_Missouri/
+28,KMO,Toledo,43610,Toledo_Ohio/
+29,Central,Wichita,67210,Wichita_Kansas/
+30,Eastern,Albany,12210,Albany_New_York/
+31,Eastern,Altoona,17044,Lewistown_Altoona_State_College_Pennsylvania/
+32,Eastern,Baltimore,21212,Baltimore/
+33,Eastern,Boston,02111,Boston/
+34,Eastern,Buffalo,14212,Buffalo_New_York/
+35,Eastern,Charleston WV,25315,Charleston_West_Virginia/
+36,Eastern,Harrisburg,17110,Harrisburg_York_Lancaster_Pennsylvania/
+37,Eastern,Hartford/New Haven,06505,Hartford_New_Haven/
+38,Eastern,New York,10011,New_York_City_New_Jersey_Connecticut/
+39,Eastern,Norfolk,23510,Norfolk_Virginia/
+40,Eastern,Philadelphia,19140,Philadelphia/
+41,Eastern,Pittsburgh,15210,Pittsburgh/
+42,Eastern,Portland ME,04103,Portland_Maine/
+43,Eastern,Providence,02905,Providence_Rhode_Island/
+44,Eastern,Richmond,23220,Richmond_Virginia/
+45,Eastern,Rochester,14605,Rochester_New_York/
+46,Eastern,Springfield MA,01111,Springfield_Massachusetts/
+47,Eastern,Syracuse,13210,Syracuse_New_York/
+48,Eastern,Washington DC,20020,Washington_DC/
+49,Eastern,Wilkes-Barre,18765,Wilkes_Barre_Pennsylvania/
+50,Southern,Atlanta,30313,Atlanta/
+51,Southern,Augusta,30909,Augusta_Georgia/
+52,Southern,Austin,78710,Austin_Texas/
+53,Southern,Baton Rouge,70813,Baton_Rouge/
+54,Southern,Birmingham,35215,Birmingham_Alabama/
+55,Southern,Charleston SC,29413,Charleston_South_Carolina/
+56,Southern,Charlotte,28208,Charlotte_North_Carolina/
+57,Southern,Chattanooga,37410,Chattanooga_Tennessee/
+58,Southern,Columbia,29210,Columbia_South_Carolina/
+59,Southern,Dallas-Ft. Worth,75220,Dallas_Ft_Worth/
+60,Southern,El Paso,79905,El_Paso/
+61,Southern,Ft. Myers/Naples,33912,Ft_Myers_Naples/
+62,Southern,Greensboro,27427,Greensboro_Winston_Salem/
+63,Southern,Greenville,29609,Greenville_South_Carolina/
+64,Southern,Houston,77011,Houston/
+65,Southern,Huntsville,35815,Huntsville_Alabama/
+66,Southern,Jackson,39212,Jackson_Florida/
+67,Southern,Jacksonville,32206,Jacksonville/
+68,Southern,Kingsport/Tri Cities,37664,Kingsport_Tri_Cities/
+69,Southern,Knoxville,37920,Knoxville_Tennessee/
+70,Southern,Little Rock,72210,Little_Rock/
+71,Southern,Lubbock,79415,Lubbock_Texas/
+72,Southern,Macon,31210,Macon_Georgia/
+73,Southern,Memphis,38111,Memphis/
+74,Southern,Miami/Ft. Lauderdale,33111,Miami_Ft_Lauderdale/
+75,Southern,Mobile,36630,Mobile_Alabama/
+76,Southern,Montgomery,36111,Montgomery_Alabama/
+77,Southern,Nashville,37210,Nashville/
+78,Southern,New Orleans,70130,New_Orleans/
+79,Southern,Oklahoma City,73115,Oklahoma_City/
+80,Southern,Orlando/Melbourne,32792,Orlando_Melbourne/
+81,Southern,West Palm Beach,33404,Palm_Beach_Florida/
+82,Southern,Raleigh,27610,Raleigh_Durham/
+83,Southern,San Antonio,78210,San_Antonio/
+84,Southern,Savannah,31414,Savannah_Georgia/
+85,Southern,Shreveport,71115,Shreveport_Louisiana/
+86,Southern,Tampa/Sarasota,33613,Tampa_Sarasota_Florida/
+87,Southern,Tulsa,74110,Tulsa_Oklahoma/
+88,Western,Albuquerque,87111,Albuquerque/
+89,Western,Anchorage,99511,Anchorage_Alaska/
+90,Western,Bakersfield,93311,Bakersfield_California/
+91,Western,Boise,83720,Boise_Idaho/
+92,Western,Colorado Springs,80916,Colorado_Springs/
+93,Western,Eugene,97403,Eugene_Oregon/
+94,Western,Denver,80210,Denver/
+95,Western,Fresno,93710,Fresno/
+96,Western,Las Vegas,89110,Las_Vegas/
+97,Western,Los Angeles,90245,Los_Angeles_California/
+98,Western,Monterey,93943,Monterey/
+99,Western,Palm Springs,92263,Palm_Springs/
+100,Western,Phoenix,85010,Phoenix_Valley/
+101,Western,Portland,97232,Portland_Oregon/
+102,Western,Reno,89505,Reno_Nevada/
+103,Western,Sacramento,94240,Sacramento_Modesto_California/
+104,Western,Salt Lake City,84111,Salt_Lake_City/
+105,Western,San Diego,92110,San_Diego/
+106,Western,San Francisco,94116,San_Francisco_California/
+107,Western,Santa Barbara,93106,Santa_Barbara/
+108,Western,Seattle,98122,Seattle/
+109,Western,Spokane,99209,Spokane_Washington/
+110,Western,Tucson,85717,Tucson_Arizona/
+111,N-A,Shared Zips,,select_dealer.html
